@@ -4,9 +4,9 @@ Auto Trader is one of the largest companies in the UK for selling and buying car
 
 * Part 1: Importing Data and Renaming Columns Names
 * Part 2: Data/Domain Understanding and Exploration
-✔ Meaning and Type of Features
-✔ Analysis of Distributions
-✔ Analysis of Associations, Data Exploration and Visualisation
+  * ✔ Meaning and Type of Features
+  * ✔ Analysis of Distributions
+  * ✔ Analysis of Associations, Data Exploration and Visualisation
 part 3: Data Processing for Machine Learning
 ✔ Dealing with Missing Values, Outliers, and Noise
 ✔ Feature Engineering
