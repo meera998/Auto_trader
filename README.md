@@ -1,6 +1,6 @@
 # Auto_trader
 
-Auto Trader is one of the largest companies in the UK for selling and buying cars. It is an automotive marketplace which allows sellers and buyers of cars to interact and connect. Users can search for their desired cars based on some specification namely year of registration , car model, price, etc. In this project we mainly focus on building a machine learning model to predict the price of the cars based on some relevent features. With regards to the dataset, we use a sample dataset which is composed of 11 unique features and 402005 observations. The process has been divided into several steps as stated below:
+** Auto Trader ** is one of the largest companies in the UK for selling and buying cars. It is an automotive marketplace which allows sellers and buyers of cars to interact and connect. Users can search for their desired cars based on some specification namely year of registration , car model, price, etc. In this project we mainly focus on building a machine learning model to predict the price of the cars based on some relevent features. With regards to the dataset, we use a sample dataset which is composed of 11 unique features and 402005 observations. The process has been divided into several steps as stated below:
 
 * Part 1: Importing Data and Renaming Columns Names
 * Part 2: Data/Domain Understanding and Exploration
