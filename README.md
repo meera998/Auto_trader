@@ -7,17 +7,17 @@ Auto Trader is one of the largest companies in the UK for selling and buying car
   * ✔ Meaning and Type of Features
   * ✔ Analysis of Distributions
   * ✔ Analysis of Associations, Data Exploration and Visualisation
-part 3: Data Processing for Machine Learning
-✔ Dealing with Missing Values, Outliers, and Noise
-✔ Feature Engineering
-Target Encoder
-✔ Feature Selection
-Correlation Coefficient and Analysis of Predictive Power of Features
-Lasso Regression
-Mutual Information Regression
-part 4: Model Building
-✔ Algorithm Selection, Model Instantiation and Configuration, and Model Ranking and Selection
-part 5: Coarse-Grained Evaluation/Analysis
-part 6: Grid Search and Hyperparameter Tuning
-part 7: Model Evaluation and Analysis
-✔ Feature Importance and Fine-Grained Evaluation
+* part 3: Data Processing for Machine Learning
+  * ✔ Dealing with Missing Values, Outliers, and Noise
+  * ✔ Feature Engineering
+    * Target Encoder
+* ✔ Feature Selection
+  * Correlation Coefficient and Analysis of Predictive Power of Features
+  * Lasso Regression
+  * Mutual Information Regression
+* part 4: Model Building
+  * ✔ Algorithm Selection, Model Instantiation and Configuration, and Model Ranking and Selection
+* part 5: Coarse-Grained Evaluation/Analysis
+* part 6: Grid Search and Hyperparameter Tuning
+* part 7: Model Evaluation and Analysis
+  * ✔ Feature Importance and Fine-Grained Evaluation
